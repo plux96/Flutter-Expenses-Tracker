@@ -12,8 +12,8 @@ A new Flutter project.
 
 ## Add Expenses Modal (light mode)
 
-<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenes_add2.png" alt="drawing" width="200"/>
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenses_add2.png" alt="drawing" width="200"/>
 
 ## Add Expenses Modal (dark mode)
 
-<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenes_add1.png" alt="drawing" width="200"/>
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenses_add1.png" alt="drawing" width="200"/>

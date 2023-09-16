@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Home page (light mode)
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/home1.png" alt="drawing" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Home page (dark mode)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/home2.png" alt="drawing" width="200"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Add Expenses Modal (light mode)
+
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenes_add2.png" alt="drawing" width="200"/>
+
+## Add Expenses Modal (dark mode)
+
+<img src="https://github.com/plux96/Flutter-Expenses-Tracker/blob/main/assets/images/expenes_add1.png" alt="drawing" width="200"/>
